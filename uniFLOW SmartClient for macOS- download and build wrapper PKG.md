@@ -8,22 +8,25 @@ The purpose of this guide is to explain how to turn the ISO provided by the uniF
 
 In **uniFLOW Online**:
 
-1. 
-    1. Go to **Extensions**.
-    2. Select **uniFLOW SmartClient**.
-    3. Select **Installer configuration and creation**.
-    4. Select **Manage installers**.  
+a. Go to **Extensions**.\
+b. Select **uniFLOW SmartClient**.\
+c. Select **Installer configuration and creation**.\
+d. Select **Manage installers**.
 
-Double-click SmartClientMac.iso  
+<img width="1542" height="513" alt="Manage installers" src="https://github.com/user-attachments/assets/4cb5343b-d7b5-4117-b677-a890e50a7935" />
 
-    5. Select **SmartClientMac.iso** in the left pane.
-    6. Open the **Installer versions** tab.
+*Double-click SmartClientMac.iso*
 
-**Important: **Do not assume the version marked Published is the newest version. In the example captured on 11 Nov 2026, 2024.3.0.2 was Published, but 2026.1.0.3 was available above it and was the working current package. 
+e. Select **SmartClientMac.iso** in the left pane.\
+f. Open the **Installer versions** tab.
 
-g. Select the newest appropriate macOS release, currently **2026.1.0.3** in our example.
+> [!IMPORTANT]
+> Do not assume the version marked Published is the newest version. In the example captured on 11 Nov 2026, 2024.3.0.2 was Published, but 2026.1.0.3 was available above it and was the working current package.
 
+g. Select the newest appropriate macOS release, currently **2026.1.0.3** in our example.\
 h. Click the **⋯ three-dot menu** at the far right of that version and select **Download**.
+
+<img width="1553" height="407" alt="Download installer version" src="https://github.com/user-attachments/assets/4a5cf56b-4471-494f-bf14-e65fd6c085d3" />
 
 ### 2. Mount the ISO
 
